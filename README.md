@@ -1,6 +1,6 @@
 ### Google
 
-Original (google.com)
+Original (https://google.com)
 [![Google.com](https://i.imgur.com/Wd46Okp.png "Google.com")](https://i.imgur.com/Wd46Okp.png "Google.com")
 
 ------------
